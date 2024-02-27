@@ -174,6 +174,7 @@ correspondantes pour les nouvelles images.
 
 **Vue générale de l'appli**
 
+![image](https://github.com/juicysuii/LeukemiaDetection/assets/104457893/5644da50-6b4d-4bb2-aae3-e4842150d520)
 
 
 <a name="br9"></a> 
