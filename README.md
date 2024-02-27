@@ -176,6 +176,8 @@ correspondantes pour les nouvelles images.
 
 ![image](https://github.com/juicysuii/LeukemiaDetection/assets/104457893/5644da50-6b4d-4bb2-aae3-e4842150d520)
 
+![image](https://github.com/juicysuii/LeukemiaDetection/assets/104457893/bd100402-2c0c-4b30-936d-9aeac574f8a3)
+
 
 <a name="br9"></a> 
 
