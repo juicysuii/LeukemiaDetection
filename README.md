@@ -2,8 +2,6 @@
 
 <a name="br1"></a> 
 
-**Rapport :**
-
 **Détection de Lucémie dans le sang**
 
 <a name="br2"></a> 
