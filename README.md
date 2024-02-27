@@ -4,15 +4,7 @@
 
 **Rapport :**
 
-**Détection de Lucémie dans le**
-
-**sang**
-
-**ABERKANE Youssef**
-
-**BENNOUNA Oumayma**
-
-
+**Détection de Lucémie dans le sang**
 
 <a name="br2"></a> 
 
